@@ -7,7 +7,7 @@ A super-lightweight wrapper around [apex/log](https://github.com/apex/log) to ma
 
 ## Usage
 
-All the methods in (`log.Interface`)[https://godoc.org/github.com/apex/log#Interface] are defined, with a `context.Context`
+All the methods in [`log.Interface`](https://godoc.org/github.com/apex/log#Interface) are defined, with a `context.Context`
 as the first parameter.
 
 ```go
